@@ -1,1 +1,1 @@
-# PURE CSS Carousel
+# PURE CSS Carousel - youtube - designcourse
